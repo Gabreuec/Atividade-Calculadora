@@ -1,0 +1,27 @@
+
+body{
+    color: gold;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    flex-direction: column;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(3c96bcaf5a6d0efc79d54166833c09b8.jpg);
+   
+}
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    background-color:  red; 
+}
+table {
+    margin: auto; 
+    border-collapse: collapse
+}
+div{
+    margin-top: 10px;
+}
+image{
+opacity:0 ;
+}
+
